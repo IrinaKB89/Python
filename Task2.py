@@ -8,3 +8,4 @@ minutes = int(time/60 - hours*60)
 seconds = int(time - minutes*60 - hours*3600)
 
 print(f"Время в формате ч:м:с - {hours}:{minutes}:{seconds}")
+

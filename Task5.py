@@ -11,3 +11,4 @@ if profit <= 0:
     print("Убыток")
 else:
     print("Прибыль")
+    
